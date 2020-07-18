@@ -1,0 +1,7 @@
+C:\Users\Karimova\source\repos\MathOperationsConsoleApp\MathOperationsConsoleApp\obj\Debug\MathOperationsConsoleApp.csprojAssemblyReference.cache
+C:\Users\Karimova\source\repos\MathOperationsConsoleApp\MathOperationsConsoleApp\obj\Debug\MathOperationsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\source\repos\MathOperationsConsoleApp\MathOperationsConsoleApp\bin\Debug\MathOperationsConsoleApp.exe.config
+C:\Users\Karimova\source\repos\MathOperationsConsoleApp\MathOperationsConsoleApp\bin\Debug\MathOperationsConsoleApp.exe
+C:\Users\Karimova\source\repos\MathOperationsConsoleApp\MathOperationsConsoleApp\bin\Debug\MathOperationsConsoleApp.pdb
+C:\Users\Karimova\source\repos\MathOperationsConsoleApp\MathOperationsConsoleApp\obj\Debug\MathOperationsConsoleApp.exe
+C:\Users\Karimova\source\repos\MathOperationsConsoleApp\MathOperationsConsoleApp\obj\Debug\MathOperationsConsoleApp.pdb
