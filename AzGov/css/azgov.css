@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #fdcb6e;
+    width: 100%;
+}
+
+
+
+form{
+ display: flex;
+ justify-content: center;  
+}
+
+.top-images{
+    display: flex;
+    justify-content: center;
+    padding-top: 2.5%;
+    background-color: white;
+    width: 100%;
+}
+
+.img1{
+    width: 6.5%;
+    
+}
+
+.img1>img{
+    width: 100%;
+}
+
+.img2{
+    width: 8.5%;
+    
+}
+
+.img2>img{
+    width: 100%;
+}
+
+
+fieldset{
+    padding: 1%;
+    width: 30%;
+}
+
+legend{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0 1.5%;
+}
+
+.bashliqlar{
+    text-align: center;
+    
+    padding: 2% 0;
+}
+
+input{
+    
+    margin: 3.5% 0;
+    padding: 0.5%;
+}
+
+input{
+    outline: none;
+    border: none;
+    padding: 1.5%;
+}
+
+select{
+    width: 43%;
+    outline: none;
+    border: none;
+    color: #192a56;
+    font-size: 1rem;
+    margin-top: 2.5%;
+}
+
+button{
+    background-color: indigo;
+    cursor: pointer;
+    padding: 2.5% 3.5%;
+    border-radius: 5px;
+    margin-top: 2.5%;
+    border: none;
+    color: #fdcb6e;
+    transition: .5s;
+}
+
+button:hover{
+    background-color: violet;
+    transition: .5s;
+}
+
+
+.ad{
+    margin-left: 7.5%;
+    width: 43%;
+}
+
+.soyad{
+    margin-left: 1.5%;
+    width: 43%;
+}
+
+.vaxt{
+    margin-left: 10.5%;
+    width: 43%;
+}
+
+.tehsil{
+    margin-left: 8%;
+}
