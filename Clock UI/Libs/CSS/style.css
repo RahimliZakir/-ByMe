@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Red Rose', cursive;
+}
+
+.common-time {
+    display: flex;
+    background-image: url(../IMG/photo-1528360983277-13d401cdc186.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+
+.hour {
+    width: 200px;
+    height: 200px;
+    background-color: #B53471;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hour-p {
+    font-size: 75px;
+}
+
+.minute {
+    width: 200px;
+    height: 200px;
+    background-color: #0652DD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.minute-p {
+    font-size: 75px;
+}
+
+.second {
+    width: 200px;
+    height: 200px;
+    background-color: #C4E538;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-p {
+    font-size: 75px;
+}
