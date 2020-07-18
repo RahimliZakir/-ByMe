@@ -1,0 +1,40 @@
+body{
+    user-select: none;
+}
+
+form{
+    margin-top: 2.5%;
+}
+
+
+
+.alma:checked + label, .armud:checked + label{
+    text-decoration: line-through;
+}
+
+.element{
+    position: absolute;
+    color: black;
+    z-index: 5;
+    font-weight: 600;
+    font-size: 20px;
+    top: -18px;
+    left: 50%;
+}
+
+.progress-bar{
+    position: relative;
+    height: 30px;
+    border-radius: 20px;
+    width: 75%;
+    background-color: #b2bec3;
+}
+
+.progress-bar > .progress{
+   position: absolute;
+   background-color: teal;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   border-radius: 20px;
+}
