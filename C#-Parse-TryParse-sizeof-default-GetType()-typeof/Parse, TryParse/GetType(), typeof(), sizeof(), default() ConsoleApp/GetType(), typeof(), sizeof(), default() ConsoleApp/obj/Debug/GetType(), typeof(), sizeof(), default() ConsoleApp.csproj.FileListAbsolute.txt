@@ -1,0 +1,7 @@
+C:\Users\Karimova\source\repos\GetType(), typeof(), sizeof(), default() ConsoleApp\GetType(), typeof(), sizeof(), default() ConsoleApp\bin\Debug\GetType(), typeof(), sizeof(), default() ConsoleApp.exe.config
+C:\Users\Karimova\source\repos\GetType(), typeof(), sizeof(), default() ConsoleApp\GetType(), typeof(), sizeof(), default() ConsoleApp\bin\Debug\GetType(), typeof(), sizeof(), default() ConsoleApp.exe
+C:\Users\Karimova\source\repos\GetType(), typeof(), sizeof(), default() ConsoleApp\GetType(), typeof(), sizeof(), default() ConsoleApp\bin\Debug\GetType(), typeof(), sizeof(), default() ConsoleApp.pdb
+C:\Users\Karimova\source\repos\GetType(), typeof(), sizeof(), default() ConsoleApp\GetType(), typeof(), sizeof(), default() ConsoleApp\obj\Debug\GetType(), typeof(), sizeof(), default() ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Karimova\source\repos\GetType(), typeof(), sizeof(), default() ConsoleApp\GetType(), typeof(), sizeof(), default() ConsoleApp\obj\Debug\GetType(), typeof(), sizeof(), default() ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\source\repos\GetType(), typeof(), sizeof(), default() ConsoleApp\GetType(), typeof(), sizeof(), default() ConsoleApp\obj\Debug\GetType(), typeof(), sizeof(), default() ConsoleApp.exe
+C:\Users\Karimova\source\repos\GetType(), typeof(), sizeof(), default() ConsoleApp\GetType(), typeof(), sizeof(), default() ConsoleApp\obj\Debug\GetType(), typeof(), sizeof(), default() ConsoleApp.pdb
