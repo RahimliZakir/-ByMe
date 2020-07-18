@@ -1,0 +1,14 @@
+C:\Users\Karimova\Desktop\Callback\CallbackSolution\CallbackConsoleApp\bin\Debug\CallbackConsoleApp.exe.config
+C:\Users\Karimova\Desktop\Callback\CallbackSolution\CallbackConsoleApp\bin\Debug\CallbackConsoleApp.exe
+C:\Users\Karimova\Desktop\Callback\CallbackSolution\CallbackConsoleApp\bin\Debug\CallbackConsoleApp.pdb
+C:\Users\Karimova\Desktop\Callback\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\Callback\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\Callback\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.exe
+C:\Users\Karimova\Desktop\Callback\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.pdb
+C:\Users\Karimova\Desktop\ByMe\Method Callback (Bulit-In Delegates) - C#\CallbackSolution\CallbackConsoleApp\bin\Debug\CallbackConsoleApp.exe.config
+C:\Users\Karimova\Desktop\ByMe\Method Callback (Bulit-In Delegates) - C#\CallbackSolution\CallbackConsoleApp\bin\Debug\CallbackConsoleApp.exe
+C:\Users\Karimova\Desktop\ByMe\Method Callback (Bulit-In Delegates) - C#\CallbackSolution\CallbackConsoleApp\bin\Debug\CallbackConsoleApp.pdb
+C:\Users\Karimova\Desktop\ByMe\Method Callback (Bulit-In Delegates) - C#\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\ByMe\Method Callback (Bulit-In Delegates) - C#\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ByMe\Method Callback (Bulit-In Delegates) - C#\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.exe
+C:\Users\Karimova\Desktop\ByMe\Method Callback (Bulit-In Delegates) - C#\CallbackSolution\CallbackConsoleApp\obj\Debug\CallbackConsoleApp.pdb
