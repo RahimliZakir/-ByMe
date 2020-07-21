@@ -1,0 +1,44 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.umumi {
+  height: 641px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.umumi .kurer {
+  cursor: pointer;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  border: 10px solid green;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.umumi .kurer:hover {
+  cursor: pointer;
+  background-color: green;
+  border: 10px solid yellow;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+/*# sourceMappingURL=style.css.map */

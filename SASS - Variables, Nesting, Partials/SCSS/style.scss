@@ -1,0 +1,30 @@
+@import '_partial';
+
+
+$sari: yellow;
+$yashil: green;
+
+.umumi {
+    height: 641px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .kurer {
+        cursor: pointer;
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        background-color: $sari;
+        border: 10px solid $yashil;
+        transition: 0.5s;
+    }
+
+    .kurer:hover {
+        cursor: pointer;
+        background-color: $yashil;
+        border: 10px solid $sari;
+        transition: 0.5s;
+    }
+}
