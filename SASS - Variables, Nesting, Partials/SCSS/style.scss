@@ -1,6 +1,7 @@
+//Partial
 @import '_partial';
 
-
+//Variables
 $sari: yellow;
 $yashil: green;
 
@@ -11,6 +12,8 @@ $yashil: green;
     align-items: center;
     justify-content: center;
 
+
+    //Nesting
     .kurer {
         cursor: pointer;
         border-radius: 50%;
